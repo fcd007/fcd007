@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="mailto:computacaodantas@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="mailto:fcd@hotmail.com">
+<a target="_blank" href="mailto:fcd007@hotmail.com">
   <img align="left" alt="Hotmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />
 </a>
 
