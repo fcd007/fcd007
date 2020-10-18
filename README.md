@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <a target="_blank" href="mailto:fcd@hotmail.com">
   <img align="left" alt="Hotmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />
 </a>
-  
-### 🤔 Quem sou eu
+
+### :smile: Sobre mim
 Entusiasta de computação, desenvolvo soluções web usando o poder das linguagens de programação, busco desafios, acredito no poder da educação, foco na criatividade na área de tecnologia, adoro ler, um positivista, otimista e especialista em pensar fora da caixa, programando e desenvolvendo ideias com a Stack JS: ReactJS, React-Native, Node.js, TypeScript, TypeORM, Knex.js, DB: MySQL, PostegreSQL, NoSQl: ArangoDB, MongoDB, SQLlite, sistemas operacionais: Windows e Linux, Docker, Kubernets, conhecimento em computação em nuvem com AWS, GCP. 
   
 ### :rocket: Linguagens e ferramentas
@@ -53,4 +53,5 @@ Entusiasta de computação, desenvolvo soluções web usando o poder das linguag
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
