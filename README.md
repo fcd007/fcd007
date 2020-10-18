@@ -1,4 +1,4 @@
-### 😄 Olá eu sou Claudeilton Dantas 👋
+### 😄  Olá eu sou Claudeilton Dantas 👋
 
 <!--
 **fcd007/fcd007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![fcd007 GitHub Stats](https://github-readme-stats.vercel.app/api?username=fcd007&show_icons=true)
 
-**📫 Como me contactar**
+**📫  Como me contactar**
 
 <a target="_blank" href="https://www.linkedin.com/in/francisco-claudeilton-dantas-06889190/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 
 <hr />
 
-**:running: Quem sou eu**
+**:running:  Quem sou eu**
 
 <p>Entusiasta de computação, desenvolvo soluções web usando o poder das linguagens de programação, busco desafios, acredito no poder da educação, foco na criatividade na área de tecnologia, adoro ler, um positivista, otimista e especialista em pensar fora da caixa, programando e desenvolvendo ideias com a Stack JS: ReactJS, React-Native, Node.js, TypeScript, TypeORM, Knex.js, DB: MySQL, PostegreSQL, NoSQl: ArangoDB, MongoDB, SQLlite, sistemas operacionais: Windows e Linux, Docker, Kubernets, conhecimento em computação em nuvem com AWS, GCP.</p>
   
-**:rocket: Linguagens e ferramentas**
+**:rocket:  Linguagens e ferramentas**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
