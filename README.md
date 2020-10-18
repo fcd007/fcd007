@@ -38,9 +38,13 @@ Here are some ideas to get you started:
   <img align="left" alt="Hotmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />
 </a>
 
+<br />
+
+<hr />
+
 **:running: Quem sou eu**
 
-Entusiasta de computação, desenvolvo soluções web usando o poder das linguagens de programação, busco desafios, acredito no poder da educação, foco na criatividade na área de tecnologia, adoro ler, um positivista, otimista e especialista em pensar fora da caixa, programando e desenvolvendo ideias com a Stack JS: ReactJS, React-Native, Node.js, TypeScript, TypeORM, Knex.js, DB: MySQL, PostegreSQL, NoSQl: ArangoDB, MongoDB, SQLlite, sistemas operacionais: Windows e Linux, Docker, Kubernets, conhecimento em computação em nuvem com AWS, GCP. 
+<p>Entusiasta de computação, desenvolvo soluções web usando o poder das linguagens de programação, busco desafios, acredito no poder da educação, foco na criatividade na área de tecnologia, adoro ler, um positivista, otimista e especialista em pensar fora da caixa, programando e desenvolvendo ideias com a Stack JS: ReactJS, React-Native, Node.js, TypeScript, TypeORM, Knex.js, DB: MySQL, PostegreSQL, NoSQl: ArangoDB, MongoDB, SQLlite, sistemas operacionais: Windows e Linux, Docker, Kubernets, conhecimento em computação em nuvem com AWS, GCP.</p>
   
 **:rocket: Linguagens e ferramentas**
 
