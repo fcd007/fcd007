@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 **:running:  Quem sou eu**
 
-<p>Entusiasta de computação, gosto de filmes, viagens, leituras, busco por desafios, aprendizado continuo é um foco pessoal, observo o copo meio cheio, desenvolvo projetos com Javascript/typescript, APIs RESTful com Node.js, bancos de dados relacionais: MySQL, PostegreSQL, NoSQl: ArangoDB, MongoDB, SQLlite, Redis, Mongoose, TypeORM, Knex.js, Linux, Docker, computação em nuvem com AWS, GCP.</p>
+<p>Entusiasta de computação, gosto de filmes, viagens, leituras, busco por desafios, aprendizado continuo é um foco pessoal, observo o copo meio cheio, desenvolvo projetos com Javascript/typescript, APIs RESTful com Node.js, Reactjs/React-Native, bancos de dados relacionais: MySQL, PostegreSQL, NoSQl: ArangoDB, MongoDB, SQLlite, Redis, Mongoose, TypeORM, Knex.js, Linux, Docker, computação em nuvem com AWS, GCP.</p>
   
 **:rocket:  Linguagens e ferramentas**
 
