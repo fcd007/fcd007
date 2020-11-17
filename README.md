@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 **:running:  Quem sou eu**
 
-<p>Entusiasta de computação, desenvolvo soluções web usando o poder das linguagens de programação, busco desafios, acredito no poder da educação, foco na criatividade na área de tecnologia, adoro ler, um positivista, otimista e especialista em pensar fora da caixa, programando e desenvolvendo ideias com a Stack JS: ReactJS, React-Native, Node.js, TypeScript, TypeORM, Knex.js, DB: MySQL, PostegreSQL, NoSQl: ArangoDB, MongoDB, SQLlite, sistemas operacionais: Windows e Linux, Docker, Kubernets, conhecimento em computação em nuvem com AWS, GCP.</p>
+<p>Entusiasta de computação, gosto de filmes, viagens, leituras, busco por desafios, aprendizado continuo é um foco pessoal, observo o copo meio cheio, desenvolvo projetos com Javascript/typescript, APIs RESTful com Node.js, bancos de dados relacionais: MySQL, PostegreSQL, NoSQl: ArangoDB, MongoDB, SQLlite, Redis, Mongoose, TypeORM, Knex.js, Linux, Docker, computação em nuvem com AWS, GCP.</p>
   
 **:rocket:  Linguagens e ferramentas**
 
