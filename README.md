@@ -1,23 +1,13 @@
 <h1 align="left">Hi 👋, I'm Claudeilton Dantas</h1>
 <h3 align="left">A passionate developer</h3>
 
-- 🔭 I’m currently working on [barber-app-front-back](https://github.com/fcd007/Barber-app-web-mobile)
-
 - 🌱 I’m currently learning **React, GraphQL, Nodejs, Clean Architecture, AWS**
-
-- 👯 I’m looking to collaborate on [Smarteye](https://github.com/smarteye-projetos)
-
-- 🤝 I’m looking for help with [Algorithms-JS](https://github.com/fcd007/projeto-ED-Algoritmos-JS)
 
 - 👨‍💻 All of my projects are available at [https://fcd007.github.io/pro-dantas/](https://fcd007.github.io/pro-dantas/)
 
 - 📝 I regularly write articles on [linkedin.com/in/claudeilton-dantas-06889190](linkedin.com/in/claudeilton-dantas-06889190)
 
 - 💬 Ask me about **Javascript, Typescript, React, React-Native, Cloud, AWS, Node.js**
-
-- 📫 How to reach me **computacaodantas@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/claudeilton-dantas-06889190/](https://www.linkedin.com/in/claudeilton-dantas-06889190/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
