@@ -1,15 +1,30 @@
-<h1 align="left">Hi 👋, I'm Claudeilton Dantas</h1>
-<h3 align="left">A passionate developer</h3>
+## Hi, I'm [Claudeilton Dantas!](https://www.linkedin.com/in/claudeilton-dantas-06889190/) 👋
 
-- 🌱 I’m currently learning **React, GraphQL, Nodejs, Clean Architecture, AWS**
+<br/>
 
+- 🌱 I’m currently learning more about Design Patterns Javascript, Cloud AWS.
 - 👨‍💻 All of my projects are available at [https://fcd007.github.io/pro-dantas/](https://fcd007.github.io/pro-dantas/)
+- 💬 Ask me about **Javascript, Frontend, Backend, Cloud, AWS**
+- ⚡ Fun fact: I like to plan alongside good coffee and music
 
-- 📝 I regularly write articles on [linkedin.com/in/claudeilton-dantas-06889190](linkedin.com/in/claudeilton-dantas-06889190)
+<br/>
 
-- 💬 Ask me about **Javascript, Typescript, React, React-Native, Cloud, AWS, Node.js**
+[![Twitter:claudeilton2](https://img.shields.io/twitter/follow/Claudeilton2?style=social)](https://twitter.com/claudeilton2)
+[![Linkedin:claudeilton-dantas-06889190](https://img.shields.io/badge/-ClaudeiltonDantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudeilton-dantas-06889190/)](https://www.linkedin.com/in/claudeilton-dantas-06889190/)
+[![GitHub fcd007](https://img.shields.io/github/followers/fcd007?label=follow&style=social)](https://github.com/fcd007)
+[![website](https://img.shields.io/badge/PortfolioWebsite-fcd007-blue)](https://fcd007.github.io/pro-dantas/)
+
+<a href="https://github.com/fcd007">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=fcd007&show_icons=true&theme=light&line_height=27" alt="fcd007 github stats"/>
+ 
+</a><a href="https://github.com/fcd007">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcd007&show_icons=true&locale=en&layout=compact" alt="fcd007" />
+</a>
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://dev.to/fcd007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fcd007" height="30" width="40" /></a>
 <a href="https://twitter.com/claudeilton2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="claudeilton2" height="30" width="40" /></a>
@@ -19,24 +34,28 @@
 <a href="https://discord.gg/Dantas#3453" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Dantas#3453" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<h3>Languages and Tools:</h3>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code> 
+
+<a href="https://github.com/fcd007/be-the-hero-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fcd007&repo=be-the-hero-app&theme=light" />
+
 </a>
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-</a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
+<a href="https://github.com/fcd007/Barber-app-web-mobile">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fcd007&repo=Barber-app-web-mobile&theme=light" />
+</a>
 
-<p>
- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fcd007&show_icons=true&locale=en" alt="fcd007" />
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcd007&show_icons=true&locale=en&layout=compact" alt="fcd007" />
-</p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fcd007&" alt="fcd007" /></p>
+### Show some ❤️ by starring some of the repositories!
+
+</div>
