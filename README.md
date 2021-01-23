@@ -1,62 +1,51 @@
-### 😄  Olá eu sou Claudeilton Dantas 👋
+<h1 align="center">Hi 👋, I'm Claudeilton Dantas</h1>
+<h3 align="center">A passionate developer</h3>
 
-<!--
-**fcd007/fcd007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [barber-app-front-back](https://github.com/fcd007/Barber-app-web-mobile)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **React, GraphQL, Nodejs, Clean Architecture, AWS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on [Smarteye](https://github.com/smarteye-projetos)
 
-![fcd007 GitHub Stats](https://github-readme-stats.vercel.app/api?username=fcd007&show_icons=true)
+- 🤝 I’m looking for help with [Algorithms-JS](https://github.com/fcd007/projeto-ED-Algoritmos-JS)
 
-**📫  Como me contactar**
+- 👨‍💻 All of my projects are available at [https://fcd007.github.io/pro-dantas/](https://fcd007.github.io/pro-dantas/)
 
-<a target="_blank" href="https://www.linkedin.com/in/francisco-claudeilton-dantas-06889190/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+- 📝 I regularly write articles on [linkedin.com/in/claudeilton-dantas-06889190](linkedin.com/in/claudeilton-dantas-06889190)
+
+- 💬 Ask me about **Javascript, Typescript, React, React-Native, Cloud, AWS, Node.js**
+
+- 📫 How to reach me **computacaodantas@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/claudeilton-dantas-06889190/](https://www.linkedin.com/in/claudeilton-dantas-06889190/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/fcd007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fcd007" height="30" width="40" /></a>
+<a href="https://twitter.com/claudeilton2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="claudeilton2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/claudeilton-dantas-06889190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="claudeilton-dantas-06889190/" height="30" width="40" /></a>
+<a href="https://codesandbox.com/fcd007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="fcd007" height="30" width="40" /></a>
+<a href="https://medium.com/@computacaodantas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@computacaodantas" height="30" width="40" /></a>
+<a href="https://discord.gg/Dantas#3453" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Dantas#3453" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </a>
-<a target="_blank" href="https://twitter.com/Claudeilton2">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5584991948734">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="https://dev.to/fcd007">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<a target="_blank" href="mailto:computacaodantas@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="mailto:fcd007@hotmail.com">
-  <img align="left" alt="Hotmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />
-</a>
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+</a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+</p>
 
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcd007&show_icons=true&locale=en&layout=compact" alt="fcd007" /></p>
 
-<hr />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fcd007&show_icons=true&locale=en" alt="fcd007" /></p>
 
-**:running:  Quem sou eu**
-
-<p>Entusiasta de computação, gosto de filmes, viagens, leituras, busco por desafios, aprendizado continuo é um foco pessoal, observo o copo meio cheio, desenvolvo projetos com Javascript/typescript, APIs RESTful com Node.js, Reactjs/React-Native, bancos de dados relacionais: MySQL, PostegreSQL, NoSQl: ArangoDB, MongoDB, SQLlite, Redis, Mongoose, TypeORM, Knex.js, Linux, Docker, computação em nuvem com AWS, GCP.</p>
-  
-**:rocket:  Linguagens e ferramentas**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fcd007&" alt="fcd007" /></p>
