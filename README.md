@@ -13,9 +13,9 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-fcd007-blue)](https://fcd007.github.io/pro-dantas/)
 
 <a href="https://github.com/fcd007">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcd007&show_icons=true&locale=en&layout=compact" alt="fcd007" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fcd007&show_icons=true&locale=en" alt="fcd007" />
 </a>
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,15 +39,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code> 
 
-<a href="https://github.com/fcd007/be-the-hero-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fcd007&repo=be-the-hero-app&theme=light" />
 
-</a>
-<a href="https://github.com/fcd007/Barber-app-web-mobile">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fcd007&repo=Barber-app-web-mobile&theme=light" />
-</a>
-
-<div align="center">
+<div align="right">
 
 ### Show some ❤️ by starring some of the repositories!
 
