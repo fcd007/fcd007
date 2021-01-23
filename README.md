@@ -7,24 +7,17 @@
 - 💬 Ask me about **Javascript, Frontend, Backend, Cloud, AWS**
 - ⚡ Fun fact: I like to plan alongside good coffee and music
 
-<br/>
-
 [![Twitter:claudeilton2](https://img.shields.io/twitter/follow/Claudeilton2?style=social)](https://twitter.com/claudeilton2)
 [![Linkedin:claudeilton-dantas-06889190](https://img.shields.io/badge/-ClaudeiltonDantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudeilton-dantas-06889190/)](https://www.linkedin.com/in/claudeilton-dantas-06889190/)
 [![GitHub fcd007](https://img.shields.io/github/followers/fcd007?label=follow&style=social)](https://github.com/fcd007)
 [![website](https://img.shields.io/badge/PortfolioWebsite-fcd007-blue)](https://fcd007.github.io/pro-dantas/)
 
 <a href="https://github.com/fcd007">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=fcd007&show_icons=true&theme=light&line_height=27" alt="fcd007 github stats"/>
- 
-</a><a href="https://github.com/fcd007">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcd007&show_icons=true&locale=en&layout=compact" alt="fcd007" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcd007&show_icons=true&locale=en&layout=compact" alt="fcd007" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fcd007&show_icons=true&locale=en" alt="fcd007" />
 </a>
-
-<br/>
-
+ 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
 <a href="https://dev.to/fcd007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fcd007" height="30" width="40" /></a>
 <a href="https://twitter.com/claudeilton2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="claudeilton2" height="30" width="40" /></a>
