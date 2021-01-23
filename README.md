@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Claudeilton Dantas</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="left">Hi 👋, I'm Claudeilton Dantas</h1>
+<h3 align="left">A passionate developer</h3>
 
 - 🔭 I’m currently working on [barber-app-front-back](https://github.com/fcd007/Barber-app-web-mobile)
 
