@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning more about Design Patterns Javascript, Cloud AWS.
 - 👨‍💻 All of my projects are available at [https://fcd007.github.io/pro-dantas/](https://fcd007.github.io/pro-dantas/)
-- 💬 Ask me about **Javascript, Frontend, Backend, Cloud, AWS**
+- 💬 Ask me about **Typescript, ReactJS, Node.js, GCP or AWS**
 - ⚡ Fun fact: I like to plan alongside good coffee and music
 
 [![Twitter:claudeilton2](https://img.shields.io/twitter/follow/Claudeilton2?style=social)](https://twitter.com/claudeilton2)
