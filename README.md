@@ -2,9 +2,9 @@
 
 <br/>
 
-- 🌱 I’m currently learning more about Design Patterns Javascript, Cloud AWS.
+- 🌱 I’m currently learning more about Algorithms Javascript, DDD, TDD, Cloud AWS.
 - 👨‍💻 All of my projects are available at [https://fcd007.github.io/pro-dantas/](https://fcd007.github.io/pro-dantas/)
-- 💬 Ask me about **Typescript, ReactJS, Node.js, GCP or AWS**
+- 💬 Ask me about **Javascript, Typescript, ReactJS, Node.js, Design Patterns, AWS**
 - ⚡ Fun fact: I like to plan alongside good coffee and music
 
 [![Twitter:claudeilton2](https://img.shields.io/twitter/follow/Claudeilton2?style=social)](https://twitter.com/claudeilton2)
