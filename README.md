@@ -2,7 +2,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning more about Algorithms Javascript, DDD, TDD, Cloud AWS.
+- 🌱 I’m currently learning more about Java | Javascript, DDD, TDD, SQL Server | Cloud.
 - 👨‍💻 All of my projects are available at [https://fcd007.github.io/pro-dantas/](https://fcd007.github.io/pro-dantas/)
 - 💬 Ask me about **Javascript, Typescript, ReactJS, Node.js, Design Patterns, AWS**
 - ⚡ Fun fact: I like to plan alongside good coffee and music
