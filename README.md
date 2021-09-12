@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning more about Java | Javascript, DDD, TDD, SQL Server | Cloud.
 - 👨‍💻 All of my projects are available at [https://fcd007.github.io/pro-dantas/](https://fcd007.github.io/pro-dantas/)
-- 💬 Ask me about **Javascript, Typescript, ReactJS, Node.js, Design Patterns, AWS**
+- 💬 Ask me about **Java, Javascript, Typescript, ReactJS, Node.js, Design Patterns, AWS**
 - ⚡ Fun fact: I like to plan alongside good coffee and music
 
 [![Twitter:claudeilton2](https://img.shields.io/twitter/follow/Claudeilton2?style=social)](https://twitter.com/claudeilton2)
@@ -31,6 +31,7 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
