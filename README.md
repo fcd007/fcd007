@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning more about Java | Javascript, DDD, TDD, SQL Server | Cloud.
 - 👨‍💻 All of my projects are available at [https://fcd007.github.io/pro-dantas/](https://fcd007.github.io/pro-dantas/)
-- 💬 Ask me about **Java, Javascript, Typescript, ReactJS, Node.js, Design Patterns, AWS**
+- 💬 Ask me about **Java, Javascript, Typescript, ReactJS, Node.js, Design Patterns, Cloud GCP/AWS/OCI**
 - ⚡ Fun fact: I like to plan alongside good coffee and music
 
 [![Twitter:claudeilton2](https://img.shields.io/twitter/follow/Claudeilton2?style=social)](https://twitter.com/claudeilton2)
