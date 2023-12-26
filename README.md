@@ -2,7 +2,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning more about Java 17+ / Spring Boot | C++ Data Struct, Javascript/TS | Software architecture | DDD | TDD | Cloud Computing AWS/GCP/Azure/OCI
+- 🌱 I’m currently learning more about Java 17+ / Spring Boot | C++ | Javascript/TS | Data Structures And Algorithms | Software architecture | DDD | TDD | Cloud Computing AWS/GCP/Azure/OCI
 - 👨‍💻 All of my projects are available at [https://fcd007.github.io/pro-dantas/](https://fcd007.github.io/pro-dantas/)
 - 💬 Ask me about **Java, C++, JS/TS, Software architecture, Cloud Computing**
 - ⚡ Fun fact: I like to plan alongside good coffee and music
