@@ -1,23 +1,12 @@
-## Hi, I'm [Claudeilton Dantas!](https://www.linkedin.com/in/claudeilton-dantas-06889190/) 👋
+## Oi eu sou / Hi, I'm [Claudeilton Dantas!](https://www.linkedin.com/in/claudeilton-dantas-06889190/) 👋
 
-<br/>
+### Português
 
-- 🌱 I’m currently learning more about Java 17+ / Spring Boot | C++ | Javascript/TS | Data Structures And Algorithms | Software architecture | DDD | TDD | Cloud Computing AWS/GCP/Azure/OCI
-- 👨‍💻 All of my projects are available at [https://fcd007.github.io/pro-dantas/](https://fcd007.github.io/pro-dantas/)
-- 💬 Ask me about **Java, C++, JS/TS, Software architecture, Cloud Computing**
-- ⚡ Fun fact: I like to plan alongside good coffee and music
+Desenvolvedor, amante de DevOps, potiguar e nordestino. É voluntário em projetos Open Source e sem fins lucrativos. Programo porque gosto. Acredita que pessoas necessitam de oportunidades iguais, fé, família e educação são pilares essenciais. Desenvovledor desde 2019, atua como profissional de TI desde 2011.
 
-[![Twitter:claudeilton2](https://img.shields.io/twitter/follow/Claudeilton2?style=social)](https://twitter.com/claudeilton2)
-[![Linkedin:claudeilton-dantas-06889190](https://img.shields.io/badge/-ClaudeiltonDantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudeilton-dantas-06889190/)](https://www.linkedin.com/in/claudeilton-dantas-06889190/)
-[![GitHub fcd007](https://img.shields.io/github/followers/fcd007?label=follow&style=social)](https://github.com/fcd007)
-[![website](https://img.shields.io/badge/PortfolioWebsite-fcd007-blue)](https://fcd007.github.io/pro-dantas/)
+🌱 Atualmente estou aprendendo mais sobre Java 17+/Spring Boot | C++ | Javascript/TS | Estruturas de dados e algoritmos | Arquitetura de software | DDD | TDD | Computação em nuvem AWS/GCP/Azure.
 
-<a href="https://github.com/fcd007">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fcd007&show_icons=true&locale=en" alt="fcd007" />
-</a>
-
- 
-<h3 align="left">Connect with me:</h3>
+Outras formas de me contatar podem ser encontradas em:
 <p align="left">
 <a href="https://dev.to/fcd007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fcd007" height="30" width="40" /></a>
 <a href="https://twitter.com/claudeilton2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="claudeilton2" height="30" width="40" /></a>
@@ -27,17 +16,31 @@
 <a href="https://discord.gg/Dantas#3453" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Dantas#3453" height="30" width="40" /></a>
 </p>
 
-<h3>Languages and Tools:</h3>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code> 
+### English
 
+Developer, DevOps lover, from Rio Grande do Norte and northeast. He volunteers in Open Source and non-profit projects. I program because I like it. Believes that people participating in equal opportunities, faith, family and education are essential pillars. Developer since 2019, working as an IT professional since 2011.
+
+- 🌱 I’m currently learning more about Java 17+ / Spring Boot | C++ | Javascript/TS | Data Structures And Algorithms | Software architecture | DDD | TDD | Cloud Computing AWS/GCP/Azure/OCI
+
+Other ways to contact me can be found at:
+<p align="left">
+<a href="https://dev.to/fcd007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fcd007" height="30" width="40" /></a>
+<a href="https://twitter.com/claudeilton2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="claudeilton2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/claudeilton-dantas-06889190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="claudeilton-dantas-06889190/" height="30" width="40" /></a>
+<a href="https://codesandbox.com/fcd007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="fcd007" height="30" width="40" /></a>
+<a href="https://medium.com/@computacaodantas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@computacaodantas" height="30" width="40" /></a>
+<a href="https://discord.gg/Dantas#3453" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Dantas#3453" height="30" width="40" /></a>
+</p>
+
+<a href="https://github.com/fcd007">
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fcd007&show_icons=true&locale=en" alt="fcd007" />
+</a>
+
+### Linguagens / Languages
+
+[![Top Backend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcd007&layout=compact&langs_count=6&hide=JavaScript,CoffeeScript,CSS,HTML,TypeScript&custom_title=Top%20Backend%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Frontend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcd007&layout=compact&hide=C%23,Typescript,SCSS,PowerShell&custom_title=Top%20Frontend%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="left">
 
