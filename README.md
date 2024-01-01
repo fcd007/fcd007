@@ -2,7 +2,7 @@
 
 ### Português
 
-Desenvolvedor, amante de DevOps, potiguar e nordestino. É voluntário em projetos Open Source e sem fins lucrativos. Programo porque gosto. Acredita que pessoas necessitam de oportunidades iguais, fé, família e educação são pilares essenciais. Desenvovledor desde 2019, atua como profissional de TI desde 2011.
+Desenvolvedor, amante de DevOps, potiguar e nordestino. É voluntário em projetos Open Source e sem fins lucrativos. Programo porque gosto. Acredita que pessoas necessitam de oportunidades iguais, fé, família e educação são pilares essenciais. Desenvolvedor desde 2019, atua como profissional de TI desde 2011.
 
 🌱 Atualmente estou aprendendo mais sobre Java 17+/Spring Boot | C++ | Javascript/TS | Estruturas de dados e algoritmos | Arquitetura de software | DDD | TDD | Computação em nuvem AWS/GCP/Azure.
 
