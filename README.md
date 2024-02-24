@@ -32,16 +32,6 @@ Other ways to contact me can be found at:
 <a href="https://medium.com/@computacaodantas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@computacaodantas" height="30" width="40" /></a>
 <a href="https://discord.gg/Dantas#3453" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Dantas#3453" height="30" width="40" /></a>
 </p>
-
-<a href="https://github.com/fcd007">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fcd007&show_icons=true&locale=en" alt="fcd007" />
-</a>
-
-### Linguagens / Languages
-
-[![Top Backend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcd007&layout=compact&langs_count=6&hide=JavaScript,CoffeeScript,CSS,HTML,TypeScript&custom_title=Top%20Backend%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Frontend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcd007&layout=compact&hide=C%23,Typescript,SCSS,PowerShell&custom_title=Top%20Frontend%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="left">
 
 ### Show some ❤️ by starring some of the repositories!
