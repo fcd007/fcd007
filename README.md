@@ -19,7 +19,7 @@ Outras formas de me contatar podem ser encontradas em:
 
 ### English
 
-Developer, DevOps lover, from Rio Grande do Norte and northeast. Developer since 2019, working as an IT professional since 2010.
+Developer, Movies lover, from Rio Grande do Norte and northeast. Developer since 2019, working as an IT professional since 2010.
 
 - 🌱 I’m currently learning more about Java 21+ / Spring Boot | Software architecture | Cloud Computing AWS/Azure
 
